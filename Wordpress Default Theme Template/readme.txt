@@ -1,0 +1,1 @@
+1. Create pages: login, registration, forgot-password, reset-password, verify-email, verify-notice;
